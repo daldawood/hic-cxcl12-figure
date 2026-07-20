@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "CXCL12 regional Hi-C figure generator"
+authors:
+  - family-names: "YourLastName"
+    given-names: "YourFirstName"
+version: "1.0.0"
+date-released: "2026-07-16"
+repository-code: "https://github.com/YOUR-USERNAME/hic-cxcl12-figure"
+license: "MIT"
